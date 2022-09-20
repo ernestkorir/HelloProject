@@ -1,19 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+Microverse Hello Project
 
 > Description the project.
-
+This is Microverse hello project
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: Html and CSS
+- Technologies used: ESLint
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -42,15 +40,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://www.linkedin.com/in/ernest-bore-3b6042211/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ernest-bore-3b6042211/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
